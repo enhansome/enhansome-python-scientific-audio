@@ -1,0 +1,1365 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyAV",
+          "description": "octocat: - PyAV is a Pythonic binding for FFmpeg or Libav.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:11:12Z",
+            "owner": "PyAV-Org",
+            "repo": "PyAV",
+            "stars": 3264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mutagen",
+          "description": "octocat: :package: - Reads and writes all kind of audio metadata for various formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T06:43:46Z",
+            "owner": "quodlibet",
+            "repo": "mutagen",
+            "stars": 1946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinytag",
+          "description": "octocat: :package: - reading music meta data of MP3, OGG, FLAC and Wave files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T15:52:18Z",
+            "owner": "tinytag",
+            "repo": "tinytag",
+            "stars": 831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audiolazy",
+          "description": "octocat: :package: - Expressive Digital Signal Processing (DSP) package for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-30T15:01:28Z",
+            "owner": "danilobellini",
+            "repo": "audiolazy",
+            "stars": 715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pySox",
+          "description": "octocat: :package: - Wrapper for sox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-26T08:30:07Z",
+            "owner": "marl",
+            "repo": "pysox",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audioread",
+          "description": "octocat: :package: - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T14:33:08Z",
+            "owner": "beetbox",
+            "repo": "audioread",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyfar",
+          "description": "octocat: :package: - Read audio files, SOFA files, and COMSOL data with the pyfar.io module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:51:40Z",
+            "owner": "pyfar",
+            "repo": "pyfar",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stempeg",
+          "description": "octocat: :package: - read/write of STEMS multistream audio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-31T10:22:12Z",
+            "owner": "faroit",
+            "repo": "stempeg",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Py)Soundfile",
+          "description": "octocat: :package: - Library based on libsndfile, CFFI, and NumPy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-26T07:12:54Z",
+            "owner": "bastibe",
+            "repo": "PySoundFile",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Read-Write"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pydub",
+          "description": "octocat: :package: - Manipulate audio with a simple and easy high level interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T21:32:30Z",
+            "owner": "jiaaro",
+            "repo": "pydub",
+            "stars": 9788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matchering",
+          "description": "octocat: :package: - Automated reference audio mastering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T14:37:52Z",
+            "owner": "sergree",
+            "repo": "matchering",
+            "stars": 2605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyWavelets",
+          "description": "octocat: :package: - Discrete Wavelet Transform in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:12:01Z",
+            "owner": "PyWavelets",
+            "repo": "pywt",
+            "stars": 2397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyroomacoustics",
+          "description": "octocat: :package: - Room Acoustics Simulation (RIR generator)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T01:55:51Z",
+            "owner": "LCAV",
+            "repo": "pyroomacoustics",
+            "stars": 1925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "acoustics",
+          "description": "octocat: :package: - useful tools for acousticians.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-12-10T22:34:10Z",
+            "owner": "python-acoustics",
+            "repo": "python-acoustics",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyFFTW",
+          "description": "octocat: :package: - Wrapper for FFTW(3).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-03T08:48:11Z",
+            "owner": "pyFFTW",
+            "repo": "pyFFTW",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytftb",
+          "description": "octocat: - Implementation of the MATLAB Time-Frequency Toolbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-28T07:29:41Z",
+            "owner": "scikit-signal",
+            "repo": "tftb",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resampy",
+          "description": "octocat: :package: - Sample rate conversion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-30T15:36:46Z",
+            "owner": "bmcfee",
+            "repo": "resampy",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioTK",
+          "description": "octocat: - DSP filter toolbox (lots of filters).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-01-16T23:10:14Z",
+            "owner": "mbrucher",
+            "repo": "AudioTK",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gammatone",
+          "description": "octocat: - Gammatone filterbank implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Matlab",
+            "last_commit": "2023-06-29T13:35:08Z",
+            "owner": "detly",
+            "repo": "gammatone",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRubberband",
+          "description": "octocat: :package: - Wrapper for rubberband to do pitch-shifting and time-stretching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-30T17:52:15Z",
+            "owner": "bmcfee",
+            "repo": "pyrubberband",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyfar",
+          "description": "octocat: :package: - Perform general DSP and filtering tailored for acoustic signals with the pyfar.dsp module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:51:40Z",
+            "owner": "pyfar",
+            "repo": "pyfar",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSGT",
+          "description": "octocat: :package: - Non-stationary gabor transform, constant-q.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-10T20:29:08Z",
+            "owner": "grrrr",
+            "repo": "nsgt",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sound_field_analysis",
+          "description": "octocat: :package: - Analyze, visualize and process sound field data recorded by spherical microphone arrays.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-29T19:32:17Z",
+            "owner": "AppliedAcousticsChalmers",
+            "repo": "sound_field_analysis-py",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioTSM",
+          "description": "octocat: :package: - real-time audio time-scale modification procedures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-10-07T21:17:10Z",
+            "owner": "Muges",
+            "repo": "audiotsm",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SFS-Python",
+          "description": "octocat: :package: - Sound Field Synthesis Toolbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T09:27:14Z",
+            "owner": "sfstoolbox",
+            "repo": "sfs-python",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MDCT",
+          "description": "octocat: :package: - MDCT transform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-18T21:26:07Z",
+            "owner": "nils-werner",
+            "repo": "mdct",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STFT",
+          "description": "octocat: :package: - Standalone package for Short-Time Fourier Transform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-22T15:46:58Z",
+            "owner": "nils-werner",
+            "repo": "stft",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Transformations - General DSP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aubio",
+          "description": "octocat: :package: - Feature extractor, written in C, Python interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-10T16:42:19Z",
+            "owner": "aubio",
+            "repo": "aubio",
+            "stars": 3744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "essentia",
+          "description": "octocat: - Music related low level and high level feature extractor, C++ based, includes Python bindings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-22T07:45:39Z",
+            "owner": "MTG",
+            "repo": "essentia",
+            "stars": 3690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audioFlux",
+          "description": "octocat: :package: - A library for audio and music analysis, feature extraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-06T04:12:17Z",
+            "owner": "libAudioFlux",
+            "repo": "audioFlux",
+            "stars": 3350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python_speech_features",
+          "description": "octocat: :package: - Common speech features for ASR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-20T10:08:48Z",
+            "owner": "jameslyons",
+            "repo": "python_speech_features",
+            "stars": 2423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speechpy",
+          "description": "octocat: :package: - Library for Speech Processing and Recognition, mostly feature extraction for now.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-15T05:34:35Z",
+            "owner": "astorfi",
+            "repo": "speechpy",
+            "stars": 883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audiolazy",
+          "description": "octocat: :package: - Realtime Audio Processing lib, general purpose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-30T15:01:28Z",
+            "owner": "danilobellini",
+            "repo": "audiolazy",
+            "stars": 715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spafe",
+          "description": "octocat: :package: - Python library for features extraction from audio files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-20T16:16:12Z",
+            "owner": "SuperKogito",
+            "repo": "spafe",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyYAAFE",
+          "description": "octocat: - Python bindings for YAAFE feature extractor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-06-21T07:33:00Z",
+            "owner": "Yaafe",
+            "repo": "Yaafe",
+            "stars": 248
+          }
+        }
+      ],
+      "title": "Feature extraction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "audiomentations",
+          "description": "octocat: :package: - Audio Data Augmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T22:04:14Z",
+            "owner": "iver56",
+            "repo": "audiomentations",
+            "stars": 2308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muda",
+          "description": "octocat: :package: - Musical Data Augmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-03T14:04:37Z",
+            "owner": "bmcfee",
+            "repo": "muda",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pydiogment",
+          "description": "octocat: :package: - Audio Data Augmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:48:22Z",
+            "owner": "SuperKogito",
+            "repo": "pydiogment",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Data augmentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deepspeech",
+          "description": "octocat: :package: - Pretrained automatic speech recognition.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-06-19T12:52:51Z",
+            "owner": "mozilla",
+            "repo": "DeepSpeech",
+            "stars": 26773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyannote.audio",
+          "description": "octocat: :package: - Neural building blocks for speaker diarization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-04T17:30:45Z",
+            "owner": "pyannote",
+            "repo": "pyannote-audio",
+            "stars": 10410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpeechRecognition",
+          "description": "octocat: :package: - Wrapper for several ASR engines and APIs, online and offline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T14:23:35Z",
+            "owner": "Uberi",
+            "repo": "speech_recognition",
+            "stars": 8983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyAudioAnalysis",
+          "description": "² :octocat: :package: - Feature Extraction, Classification, Diarization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T16:44:35Z",
+            "owner": "tyiannak",
+            "repo": "pyAudioAnalysis",
+            "stars": 6253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aeneas",
+          "description": "octocat: :package: - Forced aligner, based on MFCC+DTW, 35+ languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T10:22:31Z",
+            "owner": "readbeyond",
+            "repo": "aeneas",
+            "stars": 2860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py-webrtcvad",
+          "description": "octocat: :package: - Interface to the WebRTC Voice Activity Detector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-07-04T02:23:24Z",
+            "owner": "wiseman",
+            "repo": "py-webrtcvad",
+            "stars": 2497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Montreal Forced Aligner",
+          "description": "octocat: - Forced aligner, based on Kaldi (HMM), English (others can be trained).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:34:41Z",
+            "owner": "MontrealCorpusTools",
+            "repo": "Montreal-Forced-Aligner",
+            "stars": 1866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gentle",
+          "description": "octocat: - Forced-aligner built on Kaldi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T18:57:24Z",
+            "owner": "strob",
+            "repo": "gentle",
+            "stars": 1706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parselmouth",
+          "description": "octocat: :package: - Python interface to the Praat phonetics and speech analysis, synthesis, and manipulation software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T11:28:20Z",
+            "owner": "YannickJadoul",
+            "repo": "Parselmouth",
+            "stars": 1278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyWorldVocoder",
+          "description": "octocat: - Wrapper for Morise's World Vocoder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cython",
+            "last_commit": "2025-01-21T15:45:00Z",
+            "owner": "JeremyCCHsu",
+            "repo": "Python-Wrapper-for-World-Vocoder",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pypesq",
+          "description": "octocat: - Wrapper for the PESQ score calculation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-16T07:06:19Z",
+            "owner": "vBaiCai",
+            "repo": "python-pesq",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pystoi",
+          "description": "octocat: :package: - Short Term Objective Intelligibility measure (STOI).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-12-29T16:47:47Z",
+            "owner": "mpariente",
+            "repo": "pystoi",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "persephone",
+          "description": "octocat: :package: - Automatic phoneme transcription tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-18T05:17:23Z",
+            "owner": "persephone-tools",
+            "repo": "persephone",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "visqol-python",
+          "description": "octocat: :package: - Port of Google's ViSQOL audio/speech quality metric (MOS-LQO) that installs without Bazel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-30T12:02:45Z",
+            "owner": "talker93",
+            "repo": "visqol-python",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Speech Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Brian2",
+          "description": "octocat: :package: - Spiking neural networks simulator, includes cochlea model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T09:02:50Z",
+            "owner": "brian-team",
+            "repo": "brian2",
+            "stars": 1213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyloudnorm",
+          "description": "octocat: - Audio loudness meter and normalization, implements ITU-R BS.1770-4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-04T11:43:07Z",
+            "owner": "csteinmetz1",
+            "repo": "pyloudnorm",
+            "stars": 780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cochlea",
+          "description": "octocat: :package: - Inner ear models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-14T22:28:44Z",
+            "owner": "mrkrd",
+            "repo": "cochlea",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sound Field Synthesis Toolbox",
+          "description": "octocat: :package: - Sound Field Synthesis Toolbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-14T09:27:14Z",
+            "owner": "sfstoolbox",
+            "repo": "sfs-python",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loudness",
+          "description": "octocat: - Perceived loudness, includes Zwicker, Moore/Glasberg model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-08-08T08:33:32Z",
+            "owner": "deeuu",
+            "repo": "loudness",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Perceptial Models - Auditory Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NUSSL",
+          "description": "octocat: :package: - Holistic source separation framework including DSP methods and deep learning methods.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-12-09T05:05:08Z",
+            "owner": "nussl",
+            "repo": "nussl",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NIMFA",
+          "description": "octocat: :package: - Several flavors of non-negative-matrix factorization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-12T12:29:48Z",
+            "owner": "mims-harvard",
+            "repo": "nimfa",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NTFLib",
+          "description": "octocat: - Sparse Beta-Divergence Tensor Factorization.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-08-06T19:02:41Z",
+            "owner": "stitchfix",
+            "repo": "NTFLib",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commonfate",
+          "description": "octocat: :package: - Common Fate Model and Transform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-27T23:18:07Z",
+            "owner": "faroit",
+            "repo": "commonfate",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Source Separation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "librosa",
+          "description": "octocat: :package: - General audio and music analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:56:54Z",
+            "owner": "librosa",
+            "repo": "librosa",
+            "stars": 8556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Madmom",
+          "description": "octocat: :package: - MIR packages with strong focus on beat detection, onset detection and chord recognition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-20T09:38:58Z",
+            "owner": "CPJKU",
+            "repo": "madmom",
+            "stars": 1694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mir_eval",
+          "description": "octocat: :package: - Common scores for various MIR tasks. Also includes bss_eval implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-19T21:07:16Z",
+            "owner": "mir-evaluation",
+            "repo": "mir_eval",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msaf",
+          "description": "octocat: :package: - Music Structure Analysis Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T22:46:29Z",
+            "owner": "urinieto",
+            "repo": "msaf",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chord-detection",
+          "description": "octocat: - Algorithms for chord detection and key estimation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-14T02:09:53Z",
+            "owner": "sevagh",
+            "repo": "chord-detection",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catchy",
+          "description": "octocat: - Corpus Analysis Tools for Computational Hook Discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-12-22T03:50:44Z",
+            "owner": "jvbalen",
+            "repo": "catchy",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Music Information Retrieval"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TorchAudio",
+          "description": "octocat: - PyTorch Audio Loaders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:48:10Z",
+            "owner": "pytorch",
+            "repo": "audio",
+            "stars": 2922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nnAudio",
+          "description": "octocat: :package: - Accelerated audio processing using 1D convolution networks in PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T00:17:23Z",
+            "owner": "KinWaiCheuk",
+            "repo": "nnAudio",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kapre",
+          "description": "octocat: :package: - Keras Audio Preprocessors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-17T22:54:45Z",
+            "owner": "keunwoochoi",
+            "repo": "kapre",
+            "stars": 947
+          }
+        }
+      ],
+      "title": "Deep Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Music21",
+          "description": "octocat: :package: - Toolkit for Computer-Aided Musicology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:55:47Z",
+            "owner": "cuthbertLab",
+            "repo": "music21",
+            "stars": 2555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mido",
+          "description": "octocat: :package: - Realtime MIDI wrapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-27T13:13:18Z",
+            "owner": "mido",
+            "repo": "mido",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pretty-MIDI",
+          "description": "octocat: :package: - Utility functions for handling MIDI data in a nice/intuitive way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-02-18T16:33:36Z",
+            "owner": "craffel",
+            "repo": "pretty-midi",
+            "stars": 1035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mingus",
+          "description": "octocat: :package: - Advanced music theory and notation package with MIDI file and playback support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-21T22:15:47Z",
+            "owner": "bspaans",
+            "repo": "python-mingus",
+            "stars": 927
+          }
+        }
+      ],
+      "title": "Symbolic Music - MIDI - Musicology"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PYO",
+          "description": "octocat: - Realtime audio dsp engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T17:13:45Z",
+            "owner": "belangeo",
+            "repo": "pyo",
+            "stars": 1448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-sounddevice",
+          "description": "octocat: :package: - PortAudio wrapper providing realtime audio I/O with NumPy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T07:26:58Z",
+            "owner": "spatialaudio",
+            "repo": "python-sounddevice",
+            "stars": 1265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jupylet",
+          "description": "octocat: - Subtractive, additive, FM, and sample-based sound synthesis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-22T16:39:18Z",
+            "owner": "nir",
+            "repo": "jupylet",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReTiSAR",
+          "description": "octocat: - Binaural rendering of streamed or IR-based high-order spherical microphone array signals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-02T18:31:24Z",
+            "owner": "AppliedAcousticsChalmers",
+            "repo": "ReTiSAR",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Realtime applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Youtube-Downloader",
+          "description": "octocat: :package: - Download youtube videos (and the audio).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-19T16:45:25Z",
+            "owner": "ytdl-org",
+            "repo": "youtube-dl",
+            "stars": 140952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beets",
+          "description": "octocat: :package: - Music library manager and MusicBrainz tagger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:29:17Z",
+            "owner": "beetbox",
+            "repo": "beets",
+            "stars": 15534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mirdata",
+          "description": "octocat: :package: - Common loaders for Music Information Retrieval (MIR) datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T13:30:17Z",
+            "owner": "mir-dataset-loaders",
+            "repo": "mirdata",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "medleydb",
+          "description": "octocat: - Parse medleydb audio + annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-29T07:50:50Z",
+            "owner": "marl",
+            "repo": "medleydb",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "musdb",
+          "description": "octocat: :package: - Parse and process the MUSDB18 dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-28T09:08:15Z",
+            "owner": "sigsep",
+            "repo": "sigsep-mus-db",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "audiomate",
+          "description": "octocat: :package: - Loading different types of audio datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:54:14Z",
+            "owner": "ynop",
+            "repo": "audiomate",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soundcloud API",
+          "description": "octocat: :package: - Wrapper for Soundcloud API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-28T11:23:20Z",
+            "owner": "soundcloud",
+            "repo": "soundcloud-python",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Audio Dataset and Dataloaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Whirlwind Tour Of Python",
+          "description": "octocat: - fast-paced introduction to Python essentials, aimed at researchers and developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-31T00:41:43Z",
+            "owner": "jakevdp",
+            "repo": "WhirlwindTourOfPython",
+            "stars": 4027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Introduction to Numpy and Scipy",
+          "description": "octocat: - Highly recommended tutorial, covers large parts of the scientific Python ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T13:56:44Z",
+            "owner": "scipy-lectures",
+            "repo": "scientific-python-lectures",
+            "stars": 3217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIR Notebooks",
+          "description": "octocat: - collection of instructional iPython Notebooks for music information retrieval (MIR).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-19T11:54:23Z",
+            "owner": "musicinformationretrieval",
+            "repo": "musicinformationretrieval.com",
+            "stars": 1278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selected Topics in Audio Signal Processing",
+          "description": "Exercises as iPython notebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-11T18:19:04Z",
+            "owner": "spatialaudio",
+            "repo": "selected-topics-in-audio-signal-processing-exercises",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live-coding a music synthesizer",
+          "description": "Live-coding video showing how to use the SoundDevice library to reproduce realistic sounds. Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-25T19:03:27Z",
+            "owner": "cool-RR",
+            "repo": "python_synthesizer",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "There is already PythonInMusic but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. Awesome-Python is large curated list of python packages. However, the audio section is very small.",
+      "items": [],
+      "title": "Related lists"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.\nI will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:35:33.039Z",
+    "original_repository": "faroit/awesome-python-scientific-audio",
+    "original_repository_sha": "ab30574501d101bf08e1220ca293bfa7ddf103f9",
+    "enhanced_repository": "enhansome/enhansome-python-scientific-audio",
+    "enhanced_repository_description": null,
+    "title": "Awesome Python for Scientific Audio with stars"
+  }
+}
