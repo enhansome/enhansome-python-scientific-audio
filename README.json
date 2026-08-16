@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:00:12Z",
+            "last_commit": "2026-08-15T20:56:02Z",
             "owner": "PyAV-Org",
             "repo": "PyAV",
             "stars": 3266
@@ -146,7 +146,7 @@
             "last_commit": "2026-03-19T21:32:30Z",
             "owner": "jiaaro",
             "repo": "pydub",
-            "stars": 9790
+            "stars": 9791
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-07-08T14:37:52Z",
             "owner": "sergree",
             "repo": "matchering",
-            "stars": 2605
+            "stars": 2606
           }
         },
         {
@@ -404,7 +404,7 @@
             "last_commit": "2026-04-10T16:42:19Z",
             "owner": "aubio",
             "repo": "aubio",
-            "stars": 3745
+            "stars": 3746
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2026-07-22T07:45:39Z",
             "owner": "MTG",
             "repo": "essentia",
-            "stars": 3692
+            "stars": 3693
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2025-06-19T12:52:51Z",
             "owner": "mozilla",
             "repo": "DeepSpeech",
-            "stars": 26774
+            "stars": 26775
           }
         },
         {
@@ -584,7 +584,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10420
+            "stars": 10424
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-08-07T17:34:41Z",
             "owner": "MontrealCorpusTools",
             "repo": "Montreal-Forced-Aligner",
-            "stars": 1867
+            "stars": 1868
           }
         },
         {
@@ -668,7 +668,7 @@
             "last_commit": "2026-07-24T18:57:24Z",
             "owner": "strob",
             "repo": "gentle",
-            "stars": 1706
+            "stars": 1707
           }
         },
         {
@@ -772,7 +772,7 @@
             "last_commit": "2026-08-01T09:02:50Z",
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1215
+            "stars": 1216
           }
         },
         {
@@ -910,7 +910,7 @@
             "last_commit": "2026-08-11T15:56:54Z",
             "owner": "librosa",
             "repo": "librosa",
-            "stars": 8560
+            "stars": 8559
           }
         },
         {
@@ -938,7 +938,7 @@
             "last_commit": "2026-02-19T21:07:16Z",
             "owner": "mir-evaluation",
             "repo": "mir_eval",
-            "stars": 710
+            "stars": 711
           }
         },
         {
@@ -997,7 +997,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:37:56Z",
+            "last_commit": "2026-08-16T11:38:18Z",
             "owner": "pytorch",
             "repo": "audio",
             "stars": 2925
@@ -1048,7 +1048,7 @@
             "last_commit": "2026-08-12T22:55:47Z",
             "owner": "cuthbertLab",
             "repo": "music21",
-            "stars": 2559
+            "stars": 2561
           }
         },
         {
@@ -1172,7 +1172,7 @@
             "last_commit": "2026-02-19T16:45:25Z",
             "owner": "ytdl-org",
             "repo": "youtube-dl",
-            "stars": 140956
+            "stars": 140959
           }
         },
         {
@@ -1183,10 +1183,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T00:28:46Z",
+            "last_commit": "2026-08-16T06:49:43Z",
             "owner": "beetbox",
             "repo": "beets",
-            "stars": 15540
+            "stars": 15545
           }
         },
         {
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:58:58.700Z",
+    "last_updated": "2026-08-16T11:59:24.361Z",
     "original_repository": "faroit/awesome-python-scientific-audio",
     "original_repository_sha": "ab30574501d101bf08e1220ca293bfa7ddf103f9",
     "enhanced_repository": "enhansome/enhansome-python-scientific-audio",
