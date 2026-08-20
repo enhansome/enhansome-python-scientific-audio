@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 55713112,
                 "language": "Python",
-                "last_commit": "2026-07-13T06:43:46Z",
+                "last_commit": "2026-08-20T05:18:15Z",
                 "owner": "quodlibet",
                 "repo": "mutagen",
-                "stars": 1949
+                "stars": 1950
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2026-03-19T21:32:30Z",
                 "owner": "jiaaro",
                 "repo": "pydub",
-                "stars": 9791
+                "stars": 9793
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-04-10T16:42:19Z",
                 "owner": "aubio",
                 "repo": "aubio",
-                "stars": 3749
+                "stars": 3750
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2026-04-13T22:04:14Z",
                 "owner": "iver56",
                 "repo": "audiomentations",
-                "stars": 2312
+                "stars": 2311
               }
             },
             {
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10432
+                "stars": 10435
               }
             },
             {
@@ -645,7 +645,7 @@
                 "last_commit": "2026-07-31T14:23:35Z",
                 "owner": "Uberi",
                 "repo": "speech_recognition",
-                "stars": 8983
+                "stars": 8984
               }
             },
             {
@@ -675,7 +675,7 @@
                 "last_commit": "2026-07-25T10:22:31Z",
                 "owner": "readbeyond",
                 "repo": "aeneas",
-                "stars": 2861
+                "stars": 2862
               }
             },
             {
@@ -702,7 +702,7 @@
                 "archived": false,
                 "id": 44983969,
                 "language": "Python",
-                "last_commit": "2026-08-07T17:34:41Z",
+                "last_commit": "2026-08-20T00:18:52Z",
                 "owner": "MontrealCorpusTools",
                 "repo": "Montreal-Forced-Aligner",
                 "stars": 1869
@@ -747,7 +747,7 @@
                 "archived": false,
                 "id": 59571046,
                 "language": "Cython",
-                "last_commit": "2026-08-19T09:04:42Z",
+                "last_commit": "2026-08-20T03:58:37Z",
                 "owner": "JeremyCCHsu",
                 "repo": "Python-Wrapper-for-World-Vocoder",
                 "stars": 790
@@ -978,10 +978,10 @@
                 "archived": false,
                 "id": 6309729,
                 "language": "Python",
-                "last_commit": "2026-08-19T02:40:10Z",
+                "last_commit": "2026-08-19T18:15:59Z",
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8565
+                "stars": 8566
               }
             },
             {
@@ -996,7 +996,7 @@
                 "last_commit": "2026-03-20T09:38:58Z",
                 "owner": "CPJKU",
                 "repo": "madmom",
-                "stars": 1696
+                "stars": 1697
               }
             },
             {
@@ -1075,7 +1075,7 @@
                 "archived": false,
                 "id": 90321822,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:40:34Z",
+                "last_commit": "2026-08-20T11:41:08Z",
                 "owner": "pytorch",
                 "repo": "audio",
                 "stars": 2925
@@ -1127,10 +1127,10 @@
                 "archived": false,
                 "id": 14121294,
                 "language": "Python",
-                "last_commit": "2026-08-12T22:55:47Z",
+                "last_commit": "2026-08-20T01:31:53Z",
                 "owner": "cuthbertLab",
                 "repo": "music21",
-                "stars": 2566
+                "stars": 2568
               }
             },
             {
@@ -1145,7 +1145,7 @@
                 "last_commit": "2026-06-27T13:13:18Z",
                 "owner": "mido",
                 "repo": "mido",
-                "stars": 1635
+                "stars": 1636
               }
             },
             {
@@ -1264,7 +1264,7 @@
                 "last_commit": "2026-02-19T16:45:25Z",
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 140973
+                "stars": 140979
               }
             },
             {
@@ -1276,10 +1276,10 @@
                 "archived": false,
                 "id": 827590,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:00:42Z",
+                "last_commit": "2026-08-20T09:05:46Z",
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15558
+                "stars": 15563
               }
             },
             {
@@ -1448,7 +1448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:15.633Z",
+    "last_updated": "2026-08-20T12:04:38.729Z",
     "original_repository": "faroit/awesome-python-scientific-audio",
     "original_repository_id": 74242520,
     "original_repository_sha": "ab30574501d101bf08e1220ca293bfa7ddf103f9",
