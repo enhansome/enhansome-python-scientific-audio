@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 6854611,
                 "language": "Python",
-                "last_commit": "2026-08-21T11:28:27Z",
+                "last_commit": "2026-08-22T02:59:54Z",
                 "owner": "PyAV-Org",
                 "repo": "PyAV",
                 "stars": 3266
@@ -615,7 +615,7 @@
                 "last_commit": "2025-06-19T12:52:51Z",
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
-                "stars": 26771
+                "stars": 26772
               }
             },
             {
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10442
+                "stars": 10446
               }
             },
             {
@@ -645,7 +645,7 @@
                 "last_commit": "2026-07-31T14:23:35Z",
                 "owner": "Uberi",
                 "repo": "speech_recognition",
-                "stars": 8984
+                "stars": 8985
               }
             },
             {
@@ -675,7 +675,7 @@
                 "last_commit": "2026-07-25T10:22:31Z",
                 "owner": "readbeyond",
                 "repo": "aeneas",
-                "stars": 2862
+                "stars": 2863
               }
             },
             {
@@ -732,7 +732,7 @@
                 "archived": false,
                 "id": 93536979,
                 "language": "C++",
-                "last_commit": "2026-08-16T20:12:57Z",
+                "last_commit": "2026-08-21T20:13:39Z",
                 "owner": "YannickJadoul",
                 "repo": "Parselmouth",
                 "stars": 1283
@@ -978,10 +978,10 @@
                 "archived": false,
                 "id": 6309729,
                 "language": "Python",
-                "last_commit": "2026-08-20T22:05:13Z",
+                "last_commit": "2026-08-21T20:16:03Z",
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8567
+                "stars": 8571
               }
             },
             {
@@ -1075,7 +1075,7 @@
                 "archived": false,
                 "id": 90321822,
                 "language": "Python",
-                "last_commit": "2026-08-21T11:41:14Z",
+                "last_commit": "2026-08-22T11:38:57Z",
                 "owner": "pytorch",
                 "repo": "audio",
                 "stars": 2925
@@ -1093,7 +1093,7 @@
                 "last_commit": "2026-05-21T00:17:23Z",
                 "owner": "KinWaiCheuk",
                 "repo": "nnAudio",
-                "stars": 1127
+                "stars": 1126
               }
             },
             {
@@ -1127,10 +1127,10 @@
                 "archived": false,
                 "id": 14121294,
                 "language": "Python",
-                "last_commit": "2026-08-20T01:31:53Z",
+                "last_commit": "2026-08-22T01:57:02Z",
                 "owner": "cuthbertLab",
                 "repo": "music21",
-                "stars": 2568
+                "stars": 2569
               }
             },
             {
@@ -1264,7 +1264,7 @@
                 "last_commit": "2026-02-19T16:45:25Z",
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 140981
+                "stars": 140992
               }
             },
             {
@@ -1276,10 +1276,10 @@
                 "archived": false,
                 "id": 827590,
                 "language": "Python",
-                "last_commit": "2026-08-20T09:05:46Z",
+                "last_commit": "2026-08-22T08:57:55Z",
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15563
+                "stars": 15568
               }
             },
             {
@@ -1380,7 +1380,7 @@
             "last_commit": "2024-01-31T00:41:43Z",
             "owner": "jakevdp",
             "repo": "WhirlwindTourOfPython",
-            "stars": 4028
+            "stars": 4029
           }
         },
         {
@@ -1448,7 +1448,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T12:04:25.243Z",
+    "last_updated": "2026-08-22T12:00:05.421Z",
     "original_repository": "faroit/awesome-python-scientific-audio",
     "original_repository_id": 74242520,
     "original_repository_sha": "ab30574501d101bf08e1220ca293bfa7ddf103f9",
