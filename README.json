@@ -159,7 +159,7 @@
                 "last_commit": "2026-03-19T21:32:30Z",
                 "owner": "jiaaro",
                 "repo": "pydub",
-                "stars": 9793
+                "stars": 9794
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-07-22T07:45:39Z",
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3699
+                "stars": 3700
               }
             },
             {
@@ -615,7 +615,7 @@
                 "last_commit": "2025-06-19T12:52:51Z",
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
-                "stars": 26772
+                "stars": 26771
               }
             },
             {
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10459
+                "stars": 10461
               }
             },
             {
@@ -817,6 +817,28 @@
           "description": null,
           "node_type": "group",
           "title": "Speech Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sed_eval",
+              "description": "octocat: :package: - Evaluation toolbox for Sound Event Detection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52529997,
+                "language": "Python",
+                "last_commit": "2024-06-12T11:26:09Z",
+                "owner": "TUT-ARG",
+                "repo": "sed_eval",
+                "stars": 161
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Environmental Sounds"
         },
         {
           "children": [
@@ -1254,6 +1276,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TimeSide (Beta)",
+              "description": "octocat: - high level audio analysis, imaging, transcoding, streaming and labelling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2823346,
+                "language": "Python",
+                "last_commit": "2024-10-14T17:26:35Z",
+                "owner": "Parisson",
+                "repo": "TimeSide",
+                "stars": 394
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Youtube-Downloader",
               "description": "octocat: :package: - Download youtube videos (and the audio).",
               "children": [],
@@ -1264,7 +1308,7 @@
                 "last_commit": "2026-02-19T16:45:25Z",
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141006
+                "stars": 141008
               }
             },
             {
@@ -1380,7 +1424,7 @@
             "last_commit": "2024-01-31T00:41:43Z",
             "owner": "jakevdp",
             "repo": "WhirlwindTourOfPython",
-            "stars": 4029
+            "stars": 4030
           }
         },
         {
@@ -1448,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:04:19.496Z",
+    "last_updated": "2026-08-24T14:08:18.250Z",
     "original_repository": "faroit/awesome-python-scientific-audio",
     "original_repository_id": 74242520,
     "original_repository_sha": "ab30574501d101bf08e1220ca293bfa7ddf103f9",
