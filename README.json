@@ -159,7 +159,7 @@
                 "last_commit": "2026-03-19T21:32:30Z",
                 "owner": "jiaaro",
                 "repo": "pydub",
-                "stars": 9794
+                "stars": 9793
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-07-08T14:37:52Z",
                 "owner": "sergree",
                 "repo": "matchering",
-                "stars": 2610
+                "stars": 2612
               }
             },
             {
@@ -436,7 +436,7 @@
                 "last_commit": "2026-04-10T16:42:19Z",
                 "owner": "aubio",
                 "repo": "aubio",
-                "stars": 3754
+                "stars": 3753
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-07-22T07:45:39Z",
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3700
+                "stars": 3701
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2026-03-06T04:12:17Z",
                 "owner": "libAudioFlux",
                 "repo": "audioFlux",
-                "stars": 3349
+                "stars": 3350
               }
             },
             {
@@ -615,7 +615,7 @@
                 "last_commit": "2025-06-19T12:52:51Z",
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
-                "stars": 26771
+                "stars": 26772
               }
             },
             {
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10461
+                "stars": 10462
               }
             },
             {
@@ -645,7 +645,7 @@
                 "last_commit": "2026-07-31T14:23:35Z",
                 "owner": "Uberi",
                 "repo": "speech_recognition",
-                "stars": 8986
+                "stars": 8987
               }
             },
             {
@@ -1003,7 +1003,7 @@
                 "last_commit": "2026-08-22T13:06:58Z",
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8572
+                "stars": 8573
               }
             },
             {
@@ -1033,7 +1033,7 @@
                 "last_commit": "2026-02-19T21:07:16Z",
                 "owner": "mir-evaluation",
                 "repo": "mir_eval",
-                "stars": 710
+                "stars": 711
               }
             },
             {
@@ -1048,7 +1048,7 @@
                 "last_commit": "2026-05-13T22:46:29Z",
                 "owner": "urinieto",
                 "repo": "msaf",
-                "stars": 556
+                "stars": 557
               }
             },
             {
@@ -1308,7 +1308,7 @@
                 "last_commit": "2026-02-19T16:45:25Z",
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141008
+                "stars": 141018
               }
             },
             {
@@ -1320,10 +1320,10 @@
                 "archived": false,
                 "id": 827590,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:54:40Z",
+                "last_commit": "2026-08-24T23:02:44Z",
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15575
+                "stars": 15578
               }
             },
             {
@@ -1439,7 +1439,7 @@
             "last_commit": "2026-05-01T13:56:44Z",
             "owner": "scipy-lectures",
             "repo": "scientific-python-lectures",
-            "stars": 3217
+            "stars": 3216
           }
         },
         {
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:08:18.250Z",
+    "last_updated": "2026-08-25T06:02:23.233Z",
     "original_repository": "faroit/awesome-python-scientific-audio",
     "original_repository_id": 74242520,
     "original_repository_sha": "ab30574501d101bf08e1220ca293bfa7ddf103f9",
