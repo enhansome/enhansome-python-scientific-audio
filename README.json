@@ -174,7 +174,7 @@
                 "last_commit": "2026-07-08T14:37:52Z",
                 "owner": "sergree",
                 "repo": "matchering",
-                "stars": 2612
+                "stars": 2613
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-07-22T07:45:39Z",
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3701
+                "stars": 3702
               }
             },
             {
@@ -563,7 +563,7 @@
                 "last_commit": "2026-04-13T22:04:14Z",
                 "owner": "iver56",
                 "repo": "audiomentations",
-                "stars": 2313
+                "stars": 2314
               }
             },
             {
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10462
+                "stars": 10464
               }
             },
             {
@@ -705,7 +705,7 @@
                 "last_commit": "2026-08-20T00:18:52Z",
                 "owner": "MontrealCorpusTools",
                 "repo": "Montreal-Forced-Aligner",
-                "stars": 1870
+                "stars": 1871
               }
             },
             {
@@ -735,7 +735,7 @@
                 "last_commit": "2026-08-21T20:13:39Z",
                 "owner": "YannickJadoul",
                 "repo": "Parselmouth",
-                "stars": 1284
+                "stars": 1286
               }
             },
             {
@@ -765,7 +765,7 @@
                 "last_commit": "2025-07-16T07:06:19Z",
                 "owner": "vBaiCai",
                 "repo": "python-pesq",
-                "stars": 411
+                "stars": 412
               }
             },
             {
@@ -1097,7 +1097,7 @@
                 "archived": false,
                 "id": 90321822,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:42:04Z",
+                "last_commit": "2026-08-25T11:41:41Z",
                 "owner": "pytorch",
                 "repo": "audio",
                 "stars": 2927
@@ -1219,7 +1219,7 @@
                 "last_commit": "2026-07-20T17:13:45Z",
                 "owner": "belangeo",
                 "repo": "pyo",
-                "stars": 1449
+                "stars": 1450
               }
             },
             {
@@ -1320,10 +1320,10 @@
                 "archived": false,
                 "id": 827590,
                 "language": "Python",
-                "last_commit": "2026-08-24T23:02:44Z",
+                "last_commit": "2026-08-25T09:46:12Z",
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15578
+                "stars": 15580
               }
             },
             {
@@ -1424,7 +1424,7 @@
             "last_commit": "2024-01-31T00:41:43Z",
             "owner": "jakevdp",
             "repo": "WhirlwindTourOfPython",
-            "stars": 4030
+            "stars": 4031
           }
         },
         {
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:02:23.233Z",
+    "last_updated": "2026-08-25T12:16:07.480Z",
     "original_repository": "faroit/awesome-python-scientific-audio",
     "original_repository_id": 74242520,
     "original_repository_sha": "ab30574501d101bf08e1220ca293bfa7ddf103f9",
