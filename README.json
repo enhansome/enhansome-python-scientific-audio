@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-27T06:07:14Z",
                 "owner": "pyfar",
                 "repo": "pyfar",
-                "stars": 135
+                "stars": 136
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-17T13:24:11Z",
                 "owner": "PyWavelets",
                 "repo": "pywt",
-                "stars": 2396
+                "stars": 2397
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-07-17T01:55:51Z",
                 "owner": "LCAV",
                 "repo": "pyroomacoustics",
-                "stars": 1928
+                "stars": 1930
               }
             },
             {
@@ -324,7 +324,7 @@
                 "last_commit": "2026-08-27T06:07:14Z",
                 "owner": "pyfar",
                 "repo": "pyfar",
-                "stars": 135
+                "stars": 136
               }
             },
             {
@@ -448,7 +448,7 @@
                 "archived": false,
                 "id": 10456942,
                 "language": "C++",
-                "last_commit": "2026-07-22T07:45:39Z",
+                "last_commit": "2026-08-27T18:31:38Z",
                 "owner": "MTG",
                 "repo": "essentia",
                 "stars": 3706
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10478
+                "stars": 10479
               }
             },
             {
@@ -720,7 +720,7 @@
                 "last_commit": "2026-07-24T18:57:24Z",
                 "owner": "strob",
                 "repo": "gentle",
-                "stars": 1705
+                "stars": 1706
               }
             },
             {
@@ -1003,7 +1003,7 @@
                 "last_commit": "2026-08-22T13:06:58Z",
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8576
+                "stars": 8578
               }
             },
             {
@@ -1018,7 +1018,7 @@
                 "last_commit": "2026-03-20T09:38:58Z",
                 "owner": "CPJKU",
                 "repo": "madmom",
-                "stars": 1699
+                "stars": 1700
               }
             },
             {
@@ -1097,10 +1097,10 @@
                 "archived": false,
                 "id": 90321822,
                 "language": "Python",
-                "last_commit": "2026-08-26T11:42:17Z",
+                "last_commit": "2026-08-27T15:12:43Z",
                 "owner": "pytorch",
                 "repo": "audio",
-                "stars": 2928
+                "stars": 2929
               }
             },
             {
@@ -1308,7 +1308,7 @@
                 "last_commit": "2026-02-19T16:45:25Z",
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141040
+                "stars": 141038
               }
             },
             {
@@ -1320,10 +1320,10 @@
                 "archived": false,
                 "id": 827590,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:13:12Z",
+                "last_commit": "2026-08-27T19:55:50Z",
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15591
+                "stars": 15592
               }
             },
             {
@@ -1424,7 +1424,7 @@
             "last_commit": "2024-01-31T00:41:43Z",
             "owner": "jakevdp",
             "repo": "WhirlwindTourOfPython",
-            "stars": 4033
+            "stars": 4034
           }
         },
         {
@@ -1439,7 +1439,7 @@
             "last_commit": "2026-05-01T13:56:44Z",
             "owner": "scipy-lectures",
             "repo": "scientific-python-lectures",
-            "stars": 3216
+            "stars": 3215
           }
         },
         {
@@ -1492,7 +1492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:57:35.877Z",
+    "last_updated": "2026-08-27T21:19:17.153Z",
     "original_repository_info": {
       "archived": false,
       "id": 74242520,
