@@ -80,7 +80,7 @@
                 "open_issues": 6,
                 "owner": "tinytag",
                 "repo": "tinytag",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "aiff",
                   "audio",
@@ -181,7 +181,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-02T10:30:19Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "pyfar",
                 "repo": "pyfar",
                 "stars": 136,
@@ -264,7 +264,7 @@
                 "open_issues": 422,
                 "owner": "jiaaro",
                 "repo": "pydub",
-                "stars": 9793,
+                "stars": 9794,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -285,7 +285,7 @@
                 "open_issues": 34,
                 "owner": "sergree",
                 "repo": "matchering",
-                "stars": 2623,
+                "stars": 2624,
                 "topics": [
                   "audio",
                   "docker-image",
@@ -321,8 +321,8 @@
                 "id": 11591264,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T04:36:03Z",
-                "open_issues": 82,
+                "last_commit": "2026-09-09T20:17:07Z",
+                "open_issues": 81,
                 "owner": "PyWavelets",
                 "repo": "pywt",
                 "stars": 2398,
@@ -352,7 +352,7 @@
                 "open_issues": 22,
                 "owner": "LCAV",
                 "repo": "pyroomacoustics",
-                "stars": 1936,
+                "stars": 1937,
                 "topics": [
                   "acoustics",
                   "adaptive-filtering",
@@ -547,7 +547,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-02T10:30:19Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "pyfar",
                 "repo": "pyfar",
                 "stars": 136,
@@ -764,7 +764,7 @@
                 "open_issues": 436,
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3712,
+                "stars": 3714,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -795,7 +795,7 @@
                 "open_issues": 16,
                 "owner": "libAudioFlux",
                 "repo": "audioFlux",
-                "stars": 3358,
+                "stars": 3360,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -836,7 +836,7 @@
                 "open_issues": 25,
                 "owner": "jameslyons",
                 "repo": "python_speech_features",
-                "stars": 2423,
+                "stars": 2424,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -904,7 +904,7 @@
                 "open_issues": 1,
                 "owner": "SuperKogito",
                 "repo": "spafe",
-                "stars": 484,
+                "stars": 485,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -1101,11 +1101,11 @@
                 "id": 53344691,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-09T08:33:14Z",
+                "last_commit": "2026-09-10T12:20:48Z",
                 "open_issues": 39,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10525,
+                "stars": 10531,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -1164,7 +1164,7 @@
                 "open_issues": 205,
                 "owner": "tyiannak",
                 "repo": "pyAudioAnalysis",
-                "stars": 6260,
+                "stars": 6261,
                 "topics": [
                   "audio",
                   "audio-analysis-tasks",
@@ -1193,7 +1193,7 @@
                 "open_issues": 37,
                 "owner": "readbeyond",
                 "repo": "aeneas",
-                "stars": 2863,
+                "stars": 2864,
                 "topics": [
                   "alignment",
                   "audio",
@@ -1256,7 +1256,7 @@
                 "open_issues": 287,
                 "owner": "MontrealCorpusTools",
                 "repo": "Montreal-Forced-Aligner",
-                "stars": 1882,
+                "stars": 1881,
                 "topics": [
                   "acoustic-model",
                   "forced-alignment",
@@ -1726,7 +1726,7 @@
                 "open_issues": 51,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8596,
+                "stars": 8598,
                 "topics": [
                   "audio",
                   "dsp",
@@ -1880,11 +1880,11 @@
                 "id": 90321822,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-09T11:37:00Z",
+                "last_commit": "2026-09-10T11:37:24Z",
                 "open_issues": 339,
                 "owner": "pytorch",
                 "repo": "audio",
-                "stars": 2935,
+                "stars": 2936,
                 "topics": [
                   "audio",
                   "audio-processing",
@@ -2225,7 +2225,7 @@
                 "open_issues": 4125,
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141173,
+                "stars": 141177,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -2243,10 +2243,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-08T18:09:07Z",
-                "open_issues": 710,
+                "open_issues": 712,
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15642,
+                "stars": 15645,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -2517,7 +2517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T15:18:58.034Z",
+    "last_updated": "2026-09-10T15:12:38.662Z",
     "original_repository_info": {
       "archived": false,
       "description": " Curated list of python software and packages related to scientific research in audio",
