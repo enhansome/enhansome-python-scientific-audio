@@ -17,11 +17,11 @@
                 "id": 6854611,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-23T14:54:48Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-27T06:17:01Z",
+                "open_issues": 5,
                 "owner": "PyAV-Org",
                 "repo": "PyAV",
-                "stars": 3291,
+                "stars": 3293,
                 "topics": [
                   "ffmpeg",
                   "pyav",
@@ -285,7 +285,7 @@
                 "open_issues": 34,
                 "owner": "sergree",
                 "repo": "matchering",
-                "stars": 2647,
+                "stars": 2648,
                 "topics": [
                   "audio",
                   "docker-image",
@@ -325,7 +325,7 @@
                 "open_issues": 84,
                 "owner": "PyWavelets",
                 "repo": "pywt",
-                "stars": 2402,
+                "stars": 2403,
                 "topics": [
                   "continuous-wavelet",
                   "image-processing",
@@ -771,7 +771,7 @@
                 "open_issues": 160,
                 "owner": "aubio",
                 "repo": "aubio",
-                "stars": 3760,
+                "stars": 3761,
                 "topics": [
                   "analysis",
                   "annotation",
@@ -806,7 +806,7 @@
                 "open_issues": 440,
                 "owner": "MTG",
                 "repo": "essentia",
-                "stars": 3745,
+                "stars": 3748,
                 "topics": [
                   "audio",
                   "audio-analysis",
@@ -899,7 +899,7 @@
                 "open_issues": 2,
                 "owner": "astorfi",
                 "repo": "speechpy",
-                "stars": 883,
+                "stars": 884,
                 "topics": [
                   "feature-extraction",
                   "python",
@@ -1147,7 +1147,7 @@
                 "open_issues": 42,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10594,
+                "stars": 10596,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -1180,7 +1180,7 @@
                 "open_issues": 312,
                 "owner": "Uberi",
                 "repo": "speech_recognition",
-                "stars": 8990,
+                "stars": 8991,
                 "topics": [
                   "audio",
                   "python",
@@ -1368,7 +1368,7 @@
                 "open_issues": 24,
                 "owner": "JeremyCCHsu",
                 "repo": "Python-Wrapper-for-World-Vocoder",
-                "stars": 795,
+                "stars": 796,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -1768,7 +1768,7 @@
                 "open_issues": 53,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8629,
+                "stars": 8631,
                 "topics": [
                   "audio",
                   "dsp",
@@ -1796,7 +1796,7 @@
                 "open_issues": 81,
                 "owner": "CPJKU",
                 "repo": "madmom",
-                "stars": 1715,
+                "stars": 1716,
                 "topics": [
                   "audio-analysis",
                   "cython",
@@ -1922,7 +1922,7 @@
                 "id": 90321822,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-26T11:37:00Z",
+                "last_commit": "2026-09-27T11:37:14Z",
                 "open_issues": 342,
                 "owner": "pytorch",
                 "repo": "audio",
@@ -2046,7 +2046,7 @@
                 "open_issues": 122,
                 "owner": "mido",
                 "repo": "mido",
-                "stars": 1643,
+                "stars": 1644,
                 "topics": [
                   "midi",
                   "midifile",
@@ -2071,7 +2071,7 @@
                 "open_issues": 30,
                 "owner": "craffel",
                 "repo": "pretty-midi",
-                "stars": 1040,
+                "stars": 1041,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -2267,7 +2267,7 @@
                 "open_issues": 4127,
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141371,
+                "stars": 141382,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -2285,10 +2285,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-25T02:22:03Z",
-                "open_issues": 711,
+                "open_issues": 712,
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15717,
+                "stars": 15721,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -2559,7 +2559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T15:07:33.342Z",
+    "last_updated": "2026-09-27T15:49:20.558Z",
     "original_repository_info": {
       "archived": false,
       "description": " Curated list of python software and packages related to scientific research in audio",
