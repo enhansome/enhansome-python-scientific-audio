@@ -17,8 +17,8 @@
                 "id": 6854611,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-03T01:33:08Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-14T17:56:49Z",
+                "open_issues": 10,
                 "owner": "PyAV-Org",
                 "repo": "PyAV",
                 "stars": 3309,
@@ -43,7 +43,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-20T05:18:15Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "quodlibet",
                 "repo": "mutagen",
                 "stars": 1970,
@@ -180,7 +180,7 @@
                 "id": 307803156,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T14:08:30Z",
+                "last_commit": "2026-10-15T13:39:46Z",
                 "open_issues": 96,
                 "owner": "pyfar",
                 "repo": "pyfar",
@@ -285,7 +285,7 @@
                 "open_issues": 34,
                 "owner": "sergree",
                 "repo": "matchering",
-                "stars": 2658,
+                "stars": 2661,
                 "topics": [
                   "audio",
                   "docker-image",
@@ -322,10 +322,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-01T20:53:41Z",
-                "open_issues": 90,
+                "open_issues": 91,
                 "owner": "PyWavelets",
                 "repo": "pywt",
-                "stars": 2411,
+                "stars": 2412,
                 "topics": [
                   "continuous-wavelet",
                   "image-processing",
@@ -546,7 +546,7 @@
                 "id": 307803156,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T14:08:30Z",
+                "last_commit": "2026-10-15T13:39:46Z",
                 "open_issues": 96,
                 "owner": "pyfar",
                 "repo": "pyfar",
@@ -757,37 +757,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "essentia",
-              "description": "octocat: - Music related low level and high level feature extractor, C++ based, includes Python bindings.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "C++ library for audio and music analysis, description and synthesis, including Python bindings",
-                "homepage": "http://essentia.upf.edu",
-                "id": 10456942,
-                "language": "C++",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-10-14T15:02:11Z",
-                "open_issues": 438,
-                "owner": "MTG",
-                "repo": "essentia",
-                "stars": 3772,
-                "topics": [
-                  "audio",
-                  "audio-analysis",
-                  "c-plus-plus",
-                  "dsp",
-                  "essentia",
-                  "music",
-                  "music-information-retrieval",
-                  "python",
-                  "sound-processing"
-                ]
-              },
-              "first_seen": "2026-08-28T21:32:01.726Z"
-            },
-            {
-              "node_type": "item",
               "title": "aubio",
               "description": "octocat: :package: - Feature extractor, written in C, Python interface.",
               "children": [],
@@ -802,7 +771,7 @@
                 "open_issues": 160,
                 "owner": "aubio",
                 "repo": "aubio",
-                "stars": 3770,
+                "stars": 3772,
                 "topics": [
                   "analysis",
                   "annotation",
@@ -817,6 +786,37 @@
                   "python",
                   "sound",
                   "tempo-tracking"
+                ]
+              },
+              "first_seen": "2026-08-28T21:32:01.726Z"
+            },
+            {
+              "node_type": "item",
+              "title": "essentia",
+              "description": "octocat: - Music related low level and high level feature extractor, C++ based, includes Python bindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "C++ library for audio and music analysis, description and synthesis, including Python bindings",
+                "homepage": "http://essentia.upf.edu",
+                "id": 10456942,
+                "language": "C++",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-14T23:34:35Z",
+                "open_issues": 443,
+                "owner": "MTG",
+                "repo": "essentia",
+                "stars": 3772,
+                "topics": [
+                  "audio",
+                  "audio-analysis",
+                  "c-plus-plus",
+                  "dsp",
+                  "essentia",
+                  "music",
+                  "music-information-retrieval",
+                  "python",
+                  "sound-processing"
                 ]
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -1115,7 +1115,7 @@
                 "open_issues": 151,
                 "owner": "mozilla",
                 "repo": "DeepSpeech",
-                "stars": 26771,
+                "stars": 26770,
                 "topics": [
                   "deep-learning",
                   "deepspeech",
@@ -1147,7 +1147,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10646,
+                "stars": 10652,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -1277,7 +1277,7 @@
                 "open_issues": 51,
                 "owner": "wiseman",
                 "repo": "py-webrtcvad",
-                "stars": 2499,
+                "stars": 2500,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -1524,8 +1524,8 @@
                 "id": 6884056,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T14:40:12Z",
-                "open_issues": 205,
+                "last_commit": "2026-10-15T08:51:43Z",
+                "open_issues": 204,
                 "owner": "brian-team",
                 "repo": "brian2",
                 "stars": 1245,
@@ -1558,7 +1558,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-04T11:43:07Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "csteinmetz1",
                 "repo": "pyloudnorm",
                 "stars": 783,
@@ -1768,7 +1768,7 @@
                 "open_issues": 51,
                 "owner": "librosa",
                 "repo": "librosa",
-                "stars": 8678,
+                "stars": 8682,
                 "topics": [
                   "audio",
                   "dsp",
@@ -1922,11 +1922,11 @@
                 "id": 90321822,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-14T11:40:31Z",
-                "open_issues": 342,
+                "last_commit": "2026-10-15T11:40:18Z",
+                "open_issues": 343,
                 "owner": "pytorch",
                 "repo": "audio",
-                "stars": 2955,
+                "stars": 2956,
                 "topics": [
                   "audio",
                   "audio-processing",
@@ -2025,7 +2025,7 @@
                 "open_issues": 161,
                 "owner": "cuthbertLab",
                 "repo": "music21",
-                "stars": 2599,
+                "stars": 2601,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -2043,10 +2043,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-16T17:16:31Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "mido",
                 "repo": "mido",
-                "stars": 1649,
+                "stars": 1650,
                 "topics": [
                   "midi",
                   "midifile",
@@ -2267,7 +2267,7 @@
                 "open_issues": 4123,
                 "owner": "ytdl-org",
                 "repo": "youtube-dl",
-                "stars": 141305,
+                "stars": 141313,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.726Z"
@@ -2284,11 +2284,11 @@
                 "id": 827590,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T04:34:32Z",
-                "open_issues": 692,
+                "last_commit": "2026-10-15T05:54:16Z",
+                "open_issues": 693,
                 "owner": "beetbox",
                 "repo": "beets",
-                "stars": 15790,
+                "stars": 15795,
                 "topics": [
                   "cli",
                   "hacktoberfest",
@@ -2313,7 +2313,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-09T12:10:04Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "mir-dataset-loaders",
                 "repo": "mirdata",
                 "stars": 415,
@@ -2458,7 +2458,7 @@
             "open_issues": 25,
             "owner": "jakevdp",
             "repo": "WhirlwindTourOfPython",
-            "stars": 4052,
+            "stars": 4053,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:01.726Z"
@@ -2559,7 +2559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:58:25.477Z",
+    "last_updated": "2026-10-15T15:45:06.138Z",
     "original_repository_info": {
       "archived": false,
       "description": " Curated list of python software and packages related to scientific research in audio",
