@@ -1,6 +1,6 @@
 # Awesome Python for Scientific Audio with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,295 | 🐛 103 | 📅 2026-09-02 [![Build Status](https://github.com/faroit/awesome-python-scientific-audio/workflows/CI/badge.svg)](https://github.com/faroit/awesome-python-scientific-audio/actions?query=workflow%3ACI+branch%3Amaster+event%3Apush)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,017 | 🐛 103 | 📅 2026-09-02 [![Build Status](https://github.com/faroit/awesome-python-scientific-audio/workflows/CI/badge.svg)](https://github.com/faroit/awesome-python-scientific-audio/actions?query=workflow%3ACI+branch%3Amaster+event%3Apush)
 
 The aim of this repository is to create a comprehensive, curated list of python software/tools related and used for scientific research in audio/music applications.
 
@@ -36,9 +36,9 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 #### Read-Write
 
-* [pyAV](http://docs.mikeboers.com/pyav/) [:octocat:](https://github.com/mikeboers/PyAV) ⭐ 3,327 | 🐛 7 | 🌐 Python | 📅 2026-11-06 - PyAV is a Pythonic binding for FFmpeg or Libav.
+* [pyAV](http://docs.mikeboers.com/pyav/) [:octocat:](https://github.com/mikeboers/PyAV) ⭐ 3,329 | 🐛 7 | 🌐 Python | 📅 2026-11-06 - PyAV is a Pythonic binding for FFmpeg or Libav.
 * [mutagen](https://mutagen.readthedocs.io/) [:octocat:](https://github.com/quodlibet/mutagen) ⭐ 1,982 | 🐛 142 | 🌐 Python | 📅 2026-11-03 [:package:](https://pypi.python.org/pypi/mutagen) - Reads and writes all kind of audio metadata for various formats.
-* [tinytag](https://github.com/devsnd/tinytag) ⭐ 844 | 🐛 5 | 🌐 Python | 📅 2026-10-30 [:octocat:](https://github.com/devsnd/tinytag) ⭐ 844 | 🐛 5 | 🌐 Python | 📅 2026-10-30 [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
+* [tinytag](https://github.com/devsnd/tinytag) ⭐ 845 | 🐛 5 | 🌐 Python | 📅 2026-10-30 [:octocat:](https://github.com/devsnd/tinytag) ⭐ 845 | 🐛 5 | 🌐 Python | 📅 2026-10-30 [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
 * [audiolazy](https://github.com/danilobellini/audiolazy) ⭐ 713 | 🐛 14 | 🌐 Python | 📅 2022-04-30 [:octocat:](https://github.com/danilobellini/audiolazy) ⭐ 713 | 🐛 14 | 🌐 Python | 📅 2022-04-30 [:package:](https://pypi.python.org/pypi/audiolazy/) - Expressive Digital Signal Processing (DSP) package for Python.
 * [pySox](https://github.com/rabitt/pysox) ⭐ 543 | 🐛 35 | 🌐 Python | 📅 2025-03-26 [:octocat:](https://github.com/rabitt/pysox) ⭐ 543 | 🐛 35 | 🌐 Python | 📅 2025-03-26 [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper for sox.
 * [audioread](https://github.com/beetbox/audioread) ⭐ 539 | 🐛 52 | 🌐 Python | 📅 2026-04-09 [:octocat:](https://github.com/beetbox/audioread) ⭐ 539 | 🐛 52 | 🌐 Python | 📅 2026-04-09 [:package:](https://pypi.python.org/pypi/audioread/) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
@@ -60,7 +60,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [Gammatone](https://github.com/detly/gammatone) ⚠️ Archived [:octocat:](https://github.com/detly/gammatone) ⚠️ Archived - Gammatone filterbank implementation.
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) ⭐ 218 | 🐛 4 | 🌐 Python | 📅 2024-09-30 [:octocat:](https://github.com/bmcfee/pyrubberband) ⭐ 218 | 🐛 4 | 🌐 Python | 📅 2024-09-30 [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
 * [pyfar](https://pyfar.readthedocs.io) [:octocat:](https://github.com/pyfar/pyfar) ⭐ 138 | 🐛 89 | 🌐 Python | 📅 2026-11-06 [:package:](https://pypi.org/project/pyfar/) - Perform general DSP and filtering tailored for acoustic signals with the [pyfar.dsp](https://pyfar.readthedocs.io/en/stable/modules/pyfar.dsp.html) module.
-* [phonometry](https://jmrplens.github.io/phonometry/) [:octocat:](https://github.com/jmrplens/phonometry) ⭐ 130 | 🐛 2 | 🌐 Python | 📅 2026-11-06 [:package:](https://pypi.org/project/phonometry/) - Standard-conformant acoustic measurement (formerly PyOctaveBand): fractional-octave filtering, sound level metrology, psychoacoustics, building and underwater acoustics, each metric checked against its governing standard.
+* [phonometry](https://jmrplens.github.io/phonometry/) [:octocat:](https://github.com/jmrplens/phonometry) ⭐ 132 | 🐛 5 | 🌐 Python | 📅 2026-11-07 [:package:](https://pypi.org/project/phonometry/) - Standard-conformant acoustic measurement (formerly PyOctaveBand): fractional-octave filtering, sound level metrology, psychoacoustics, building and underwater acoustics, each metric checked against its governing standard.
 * [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat:](https://github.com/grrrr/nsgt) ⭐ 110 | 🐛 10 | 🌐 Python | 📅 2023-11-10 [:package:](https://pypi.python.org/pypi/nsgt) - Non-stationary gabor transform, constant-q.
 * [sound\_field\_analysis](https://appliedacousticschalmers.github.io/sound_field_analysis-py/) [:octocat:](https://github.com/AppliedAcousticsChalmers/sound_field_analysis-py) ⭐ 109 | 🐛 8 | 🌐 Python | 📅 2022-12-29 [:package:](https://pypi.org/project/sound-field-analysis/) - Analyze, visualize and process sound field data recorded by spherical microphone arrays.
 * [AudioTSM](https://audiotsm.readthedocs.io/) [:octocat:](https://github.com/Muges/audiotsm) ⭐ 92 | 🐛 4 | 🌐 Python | 📅 2017-10-07 [:package:](https://pypi.python.org/pypi/audiotsm/) - real-time audio time-scale modification procedures.
@@ -71,7 +71,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 #### Feature extraction
 
 * [essentia](http://essentia.upf.edu) [:octocat:](https://github.com/MTG/essentia) ⭐ 3,795 | 🐛 448 | 🌐 C++ | 📅 2026-11-05 - Music related low level and high level feature extractor, C++ based, includes Python bindings.
-* [aubio](http://aubio.org/) [:octocat:](https://github.com/aubio/aubio) ⭐ 3,781 | 🐛 161 | 🌐 C | 📅 2026-04-10 [:package:](https://pypi.python.org/pypi/aubio) - Feature extractor, written in C, Python interface.
+* [aubio](http://aubio.org/) [:octocat:](https://github.com/aubio/aubio) ⭐ 3,783 | 🐛 161 | 🌐 C | 📅 2026-04-10 [:package:](https://pypi.python.org/pypi/aubio) - Feature extractor, written in C, Python interface.
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) ⭐ 3,382 | 🐛 16 | 🌐 C | 📅 2026-03-06 [:octocat:](https://github.com/libAudioFlux/audioFlux) ⭐ 3,382 | 🐛 16 | 🌐 C | 📅 2026-03-06 [:package:](https://pypi.python.org/pypi/audioflux) - A library for audio and music analysis, feature extraction.
 * [python\_speech\_features](https://github.com/jameslyons/python_speech_features) ⭐ 2,427 | 🐛 25 | 🌐 Python | 📅 2021-10-20 [:octocat:](https://github.com/jameslyons/python_speech_features) ⭐ 2,427 | 🐛 25 | 🌐 Python | 📅 2021-10-20 [:package:](https://pypi.python.org/pypi/python_speech_features) - Common speech features for ASR.
 * [speechpy](https://github.com/astorfi/speechpy) ⭐ 884 | 🐛 2 | 🌐 Python | 📅 2024-12-15 [:octocat:](https://github.com/astorfi/speechpy) ⭐ 884 | 🐛 2 | 🌐 Python | 📅 2024-12-15 [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
@@ -88,12 +88,12 @@ The aim of this repository is to create a comprehensive, curated list of python 
 #### Speech Processing
 
 * [deepspeech](https://github.com/mozilla/DeepSpeech) ⚠️ Archived [:octocat:](https://github.com/mozilla/DeepSpeech) ⚠️ Archived [:package:](https://pypi.org/project/deepspeech/) - Pretrained automatic speech recognition.
-* [pyannote.audio](https://github.com/pyannote/pyannote-audio) ⭐ 10,761 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2026-11-06 [:octocat:](https://github.com/pyannote/pyannote-audio) ⭐ 10,761 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2026-11-06 [:package:](https://pypi.org/project/pyannote-audio/) - Neural building blocks for speaker diarization.
+* [pyannote.audio](https://github.com/pyannote/pyannote-audio) ⭐ 10,763 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-11-07 [:octocat:](https://github.com/pyannote/pyannote-audio) ⭐ 10,763 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-11-07 [:package:](https://pypi.org/project/pyannote-audio/) - Neural building blocks for speaker diarization.
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) ⭐ 8,999 | 🐛 313 | 🌐 Python | 📅 2026-09-02 [:octocat:](https://github.com/Uberi/speech_recognition) ⭐ 8,999 | 🐛 313 | 🌐 Python | 📅 2026-09-02 [:package:](https://pypi.python.org/pypi/SpeechRecognition/) -  Wrapper for several ASR engines and APIs, online and offline.
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,272 | 🐛 205 | 🌐 Python | 📅 2026-10-09² [:octocat:](https://github.com/tyiannak/pyAudioAnalysis) ⭐ 6,272 | 🐛 205 | 🌐 Python | 📅 2026-10-09 [:package:](https://pypi.python.org/pypi/pyAudioAnalysis/) - Feature Extraction, Classification, Diarization.
 * [aeneas](https://www.readbeyond.it/aeneas/) [:octocat:](https://github.com/readbeyond/aeneas/) ⭐ 2,874 | 🐛 39 | 🌐 Python | 📅 2026-07-25 [:package:](https://pypi.python.org/pypi/aeneas/) - Forced aligner, based on MFCC+DTW, 35+ languages.
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) ⭐ 2,504 | 🐛 51 | 🌐 C | 📅 2024-07-04 [:octocat:](https://github.com/wiseman/py-webrtcvad) ⭐ 2,504 | 🐛 51 | 🌐 C | 📅 2024-07-04 [:package:](https://pypi.python.org/pypi/webrtcvad/) -  Interface to the WebRTC Voice Activity Detector.
-* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat:](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) ⭐ 1,915 | 🐛 295 | 🌐 Python | 📅 2026-10-22 - Forced aligner, based on Kaldi (HMM), English (others can be trained).
+* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat:](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) ⭐ 1,916 | 🐛 295 | 🌐 Python | 📅 2026-10-22 - Forced aligner, based on Kaldi (HMM), English (others can be trained).
 * [gentle](https://github.com/lowerquality/gentle) ⭐ 1,713 | 🐛 172 | 🌐 Python | 📅 2026-07-24 [:octocat:](https://github.com/lowerquality/gentle) ⭐ 1,713 | 🐛 172 | 🌐 Python | 📅 2026-07-24 - Forced-aligner built on Kaldi.
 * [Parselmouth](https://github.com/YannickJadoul/Parselmouth) ⭐ 1,299 | 🐛 22 | 🌐 C++ | 📅 2026-10-13 [:octocat:](https://github.com/YannickJadoul/Parselmouth) ⭐ 1,299 | 🐛 22 | 🌐 C++ | 📅 2026-10-13 [:package:](https://pypi.org/project/praat-parselmouth/) - Python interface to the [Praat](http://www.praat.org) phonetics and speech analysis, synthesis, and manipulation software.
 * [PyWorldVocoder](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) ⭐ 797 | 🐛 25 | 🌐 Cython | 📅 2026-08-20 [:octocat:](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) ⭐ 797 | 🐛 25 | 🌐 Cython | 📅 2026-08-20 - Wrapper for Morise's World Vocoder.
@@ -109,7 +109,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 #### Perceptial Models - Auditory Models
 
-* [Brian2](http://briansimulator.org/) [:octocat:](https://github.com/brian-team/brian2) ⭐ 1,256 | 🐛 221 | 🌐 Python | 📅 2026-11-05 [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
+* [Brian2](http://briansimulator.org/) [:octocat:](https://github.com/brian-team/brian2) ⭐ 1,256 | 🐛 222 | 🌐 Python | 📅 2026-11-05 [:package:](https://pypi.python.org/pypi/Brian2) - Spiking neural networks simulator, includes cochlea model.
 * [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat:](https://github.com/csteinmetz1/pyloudnorm) ⭐ 790 | 🐛 17 | 🌐 Python | 📅 2026-01-04 - Audio loudness meter and normalization, implements ITU-R BS.1770-4.
 * [cochlea](https://github.com/mrkrd/cochlea) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2024-07-14 [:octocat:](https://github.com/mrkrd/cochlea) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2024-07-14 [:package:](https://pypi.python.org/pypi/cochlea/) - Inner ear models.
 * [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat:](https://github.com/sfstoolbox/sfs-python) ⭐ 74 | 🐛 20 | 🌐 Python | 📅 2025-12-14 [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
@@ -124,24 +124,24 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 #### Music Information Retrieval
 
-* [librosa](http://librosa.github.io/librosa/) [:octocat:](https://github.com/librosa/librosa) ⭐ 8,804 | 🐛 50 | 🌐 Python | 📅 2026-11-06 [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
-* [Madmom](https://madmom.readthedocs.io/en/latest/) [:octocat:](https://github.com/CPJKU/madmom) ⭐ 1,735 | 🐛 82 | 🌐 Python | 📅 2026-03-20 [:package:](https://pypi.python.org/pypi/madmom) - MIR packages with strong focus on beat detection, onset detection and chord recognition.
-* [mir\_eval](http://craffel.github.io/mir_eval/) [:octocat:](https://github.com/craffel/mir_eval) ⭐ 719 | 🐛 42 | 🌐 Python | 📅 2026-11-06 [:package:](https://pypi.python.org/pypi/mir_eval) - Common scores for various MIR tasks. Also includes bss\_eval implementation.
-* [msaf](http://pythonhosted.org/msaf/) [:octocat:](https://github.com/urinieto/msaf) ⭐ 561 | 🐛 22 | 🌐 Python | 📅 2026-05-13 [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
+* [librosa](http://librosa.github.io/librosa/) [:octocat:](https://github.com/librosa/librosa) ⭐ 8,806 | 🐛 51 | 🌐 Python | 📅 2026-11-07 [:package:](https://pypi.python.org/pypi/librosa) - General audio and music analysis.
+* [Madmom](https://madmom.readthedocs.io/en/latest/) [:octocat:](https://github.com/CPJKU/madmom) ⭐ 1,736 | 🐛 82 | 🌐 Python | 📅 2026-03-20 [:package:](https://pypi.python.org/pypi/madmom) - MIR packages with strong focus on beat detection, onset detection and chord recognition.
+* [mir\_eval](http://craffel.github.io/mir_eval/) [:octocat:](https://github.com/craffel/mir_eval) ⭐ 719 | 🐛 43 | 🌐 Python | 📅 2026-11-06 [:package:](https://pypi.python.org/pypi/mir_eval) - Common scores for various MIR tasks. Also includes bss\_eval implementation.
+* [msaf](http://pythonhosted.org/msaf/) [:octocat:](https://github.com/urinieto/msaf) ⭐ 561 | 🐛 23 | 🌐 Python | 📅 2026-05-13 [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 * [chord-detection](https://github.com/sevagh/chord-detection) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2023-07-14 [:octocat:](https://github.com/sevagh/chord-detection) ⭐ 145 | 🐛 0 | 🌐 Python | 📅 2023-07-14 - Algorithms for chord detection and key estimation.
 * [Catchy](https://github.com/jvbalen/catchy) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2016-12-22 [:octocat:](https://github.com/jvbalen/catchy) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2016-12-22 - Corpus Analysis Tools for Computational Hook Discovery.
 
 #### Deep Learning
 
-* [TorchAudio](https://github.com/pytorch/audio) ⭐ 2,961 | 🐛 345 | 🌐 Python | 📅 2026-11-06 [:octocat:](https://github.com/pytorch/audio) ⭐ 2,961 | 🐛 345 | 🌐 Python | 📅 2026-11-06 - PyTorch Audio Loaders
+* [TorchAudio](https://github.com/pytorch/audio) ⭐ 2,962 | 🐛 345 | 🌐 Python | 📅 2026-11-07 [:octocat:](https://github.com/pytorch/audio) ⭐ 2,962 | 🐛 345 | 🌐 Python | 📅 2026-11-07 - PyTorch Audio Loaders
 * [nnAudio](https://github.com/KinWaiCheuk/nnAudio) ⭐ 1,132 | 🐛 22 | 🌐 Python | 📅 2026-05-21 [:octocat:](https://github.com/KinWaiCheuk/nnAudio) ⭐ 1,132 | 🐛 22 | 🌐 Python | 📅 2026-05-21 [:package:](https://pypi.org/project/nnAudio/) - Accelerated audio processing using 1D convolution networks in PyTorch.
 * [Kapre](https://github.com/keunwoochoi/kapre) ⭐ 947 | 🐛 16 | 🌐 Python | 📅 2026-05-17 [:octocat:](https://github.com/keunwoochoi/kapre) ⭐ 947 | 🐛 16 | 🌐 Python | 📅 2026-05-17 [:package:](https://pypi.python.org/pypi/kapre) - Keras Audio Preprocessors
 
 #### Symbolic Music - MIDI - Musicology
 
-* [Music21](http://web.mit.edu/music21/) [:octocat:](https://github.com/cuthbertLab/music21) ⭐ 2,617 | 🐛 174 | 🌐 Python | 📅 2026-11-03 [:package:](https://pypi.python.org/pypi/music21) - Toolkit for Computer-Aided Musicology.
+* [Music21](http://web.mit.edu/music21/) [:octocat:](https://github.com/cuthbertLab/music21) ⭐ 2,618 | 🐛 175 | 🌐 Python | 📅 2026-11-03 [:package:](https://pypi.python.org/pypi/music21) - Toolkit for Computer-Aided Musicology.
 * [Mido](https://mido.readthedocs.io/en/latest/) [:octocat:](https://github.com/olemb/mido) ⭐ 1,657 | 🐛 131 | 🌐 Python | 📅 2026-10-31 [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
-* [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat:](https://github.com/craffel/pretty-midi) ⭐ 1,049 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-11-04 [:package:](https://pypi.python.org/pypi/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
+* [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat:](https://github.com/craffel/pretty-midi) ⭐ 1,049 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2026-11-04 [:package:](https://pypi.python.org/pypi/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 * [mingus](https://github.com/bspaans/python-mingus) ⭐ 928 | 🐛 66 | 🌐 Python | 📅 2024-04-21 [:octocat:](https://github.com/bspaans/python-mingus) ⭐ 928 | 🐛 66 | 🌐 Python | 📅 2024-04-21 [:package:](https://pypi.org/project/mingus) - Advanced music theory and notation package with MIDI file and playback support.
 
 #### Realtime applications
@@ -157,8 +157,8 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 #### Audio Dataset and Dataloaders
 
-* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat:](https://github.com/rg3/youtube-dl) ⭐ 141,468 | 🐛 4,114 | 🌐 Python | 📅 2026-11-06 [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
-* [beets](http://beets.io/) [:octocat:](https://github.com/beetbox/beets) ⭐ 15,900 | 🐛 689 | 🌐 Python | 📅 2026-11-05 [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
+* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat:](https://github.com/rg3/youtube-dl) ⭐ 141,475 | 🐛 4,114 | 🌐 Python | 📅 2026-11-06 [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+* [beets](http://beets.io/) [:octocat:](https://github.com/beetbox/beets) ⭐ 15,902 | 🐛 689 | 🌐 Python | 📅 2026-11-07 [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 * [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat:](https://github.com/mir-dataset-loaders/mirdata) ⭐ 419 | 🐛 88 | 🌐 Python | 📅 2026-10-20 [:package:](https://pypi.python.org/pypi/mirdata) - Common loaders for Music Information Retrieval (MIR) datasets.
 * [medleydb](http://medleydb.readthedocs.io) [:octocat:](https://github.com/marl/medleydb) ⭐ 220 | 🐛 22 | 🌐 Python | 📅 2024-05-29 - Parse [medleydb](http://medleydb.weebly.com/) audio + annotations.
 * [musdb](http://dsdtools.readthedocs.io) [:octocat:](https://github.com/sigsep/sigsep-mus-db) ⭐ 201 | 🐛 4 | 🌐 Python | 📅 2025-05-28 [:package:](https://pypi.python.org/pypi/musdb) - Parse and process the MUSDB18 dataset.
@@ -173,7 +173,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 * [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) [:octocat:](https://github.com/jakevdp/WhirlwindTourOfPython) ⭐ 4,058 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2024-01-31 - fast-paced introduction to Python essentials, aimed at researchers and developers.
 * [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat:](https://github.com/scipy-lectures/scipy-lecture-notes) ⭐ 3,227 | 🐛 33 | 🌐 Python | 📅 2026-11-02 - Highly recommended tutorial, covers large parts of the scientific Python ecosystem.
-* [MIR Notebooks](http://musicinformationretrieval.com/) [:octocat:](https://github.com/stevetjoa/stanford-mir) ⭐ 1,306 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-05-19 - collection of instructional iPython Notebooks for music information retrieval (MIR).
+* [MIR Notebooks](http://musicinformationretrieval.com/) [:octocat:](https://github.com/stevetjoa/stanford-mir) ⭐ 1,307 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-05-19 - collection of instructional iPython Notebooks for music information retrieval (MIR).
 * [Selected Topics in Audio Signal Processing](https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) ⭐ 69 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-10-11 - Exercises as iPython notebooks.
 * [Live-coding a music synthesizer](https://www.youtube.com/watch?v=SSyQ0kRHzis) Live-coding video showing how to use the SoundDevice library to reproduce realistic sounds. [Code](https://github.com/cool-RR/python_synthesizer) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2022-01-25.
 * [Numpy for MATLAB® Users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html) - Short overview of equivalent python functions for switchers.
@@ -181,7 +181,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Books
 
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 50,390 | 🐛 226 | 🌐 Jupyter Notebook | 📅 2024-06-26 - Jake Vanderplas, Excellent Book and accompanying tutorial notebooks.
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 50,396 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-06-26 - Jake Vanderplas, Excellent Book and accompanying tutorial notebooks.
 * [Fundamentals of Music Processing](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP) - Meinard Müller, comes with Python exercises.
 
 ## Scientific Papers
@@ -198,7 +198,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Related lists
 
-There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) ⭐ 332,953 | 🐛 19 | 🌐 Python | 📅 2026-11-06 is large curated list of python packages. However, the audio section is very small.
+There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) ⭐ 333,164 | 🐛 19 | 🌐 Python | 📅 2026-11-06 is large curated list of python packages. However, the audio section is very small.
 
 ## Contributing
 
@@ -212,4 +212,4 @@ I will keep some pull requests open if I'm not sure whether those libraries are 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
